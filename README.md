@@ -1,4 +1,4 @@
-# Portuguese
+# Português
 
 Como o próprio nome sugere, nesse repositório eu utilizo de **multi-threading** para conseguir organizar mais eficientemente uma lista de números inteiros.
 
